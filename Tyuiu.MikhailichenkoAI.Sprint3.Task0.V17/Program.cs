@@ -24,7 +24,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint3.Task0.V17
 
             Console.Write("Введите стартовое значение (startValue): ");
             int startValue = Convert.ToInt32(Console.ReadLine());
-
+             
             Console.Write("Введите конечное значение (stopValue): ");
             int stopValue = Convert.ToInt32(Console.ReadLine());
 

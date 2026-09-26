@@ -11,7 +11,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint3.Task0.V17.Test
             DataService ds = new DataService();
 
             int startValue = 1;
-            int stopValue = 10;
+            int stopValue = 10; 
 
             double res = ds.GetSumSeries(startValue, stopValue);
             double wait = -0.709; 
